@@ -1,0 +1,25 @@
+{
+  "name": "gerardo-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardothr/gerardothr.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardothr/gerardothr.com/issues"
+  },
+  "homepage": "https://github.com/gerardothr/gerardothr.com#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "ssh2-sftp-client": "^5.3.0",
+    "upath": "^1.2.0"
+  }
+}
